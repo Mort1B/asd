@@ -1,0 +1,1 @@
+C:\Users\bergs\desktop\rust\tetris\target\wasm32-unknown-unknown\release\libtetris.rlib: C:\Users\bergs\desktop\rust\tetris\src\lib.rs C:\Users\bergs\desktop\rust\tetris\src\shape.rs C:\Users\bergs\desktop\rust\tetris\src\tetris.rs
